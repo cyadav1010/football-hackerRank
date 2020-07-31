@@ -1,0 +1,12 @@
+<testsuites name="jest tests" tests="4" failures="0" time="3.212">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-07-16T16:40:47" time="3.212" tests="4">
+    <testcase classname=" initial UI is rendered as expected" name=" initial UI is rendered as expected" time="0.149">
+    </testcase>
+    <testcase classname=" search is made on by clicking on search button and no results found" name=" search is made on by clicking on search button and no results found" time="0.133">
+    </testcase>
+    <testcase classname=" search is made on by clicking on search button and result found - test 1" name=" search is made on by clicking on search button and result found - test 1" time="0.097">
+    </testcase>
+    <testcase classname=" search is made on by clicking on search button and result found - test 2" name=" search is made on by clicking on search button and result found - test 2" time="0.054">
+    </testcase>
+  </testsuite>
+</testsuites>
